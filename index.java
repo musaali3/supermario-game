@@ -1,7 +1,6 @@
 // Created By: Musa Ali
 // Created On: June 12, 2023
 // Last Modified: June 21, 2023
-// Purpose: Culminating
 
 // DISCLAIMER: the code might not work when you are trying to run it because the image is not downloaded on your laptop. If required, please send me an email so I can send you a video of my code running. 
 // Here are all of the different variables that were used in my code. 
